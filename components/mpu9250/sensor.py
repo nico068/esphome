@@ -11,6 +11,7 @@ from esphome.const import (
     UNIT_CELSIUS,
     UNIT_DEGREE_PER_SECOND,
     UNIT_METER_PER_SECOND_SQUARED,
+    UNIT_MICROTESLA,
 )
 
 DEPENDENCIES = ["i2c"]
